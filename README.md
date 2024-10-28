@@ -18,7 +18,7 @@ data-target="animated-image.originalImage">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href = "https://www.linkedin.com/in/ankit-raj-380757213/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/ankitrajjj"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<!-- <a href = "https://twitter.com/ankitrajjj"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
